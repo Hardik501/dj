@@ -29,7 +29,7 @@ SECRET_KEY = 'no)y@qg0j!aqmo(n68x0)+_y&!cnvv009te=&d(hk7fbdv+lyb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djfashion.herokuapp.com/']
 
 
 # Application definition
