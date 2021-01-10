@@ -29,8 +29,6 @@ django-extensions==3.0.9
 django-extra-views==0.13.0
 django-haystack==3.0
 django-heroku==0.3.1
-# Editable install with no version control (django-oscar==2.1)
--e /home/hari/djfashion/env/lib/python3.8/site-packages
 django-phonenumber-field==3.0.1
 django-redis==4.12.1
 django-tables2==2.2.1
