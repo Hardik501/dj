@@ -87,6 +87,10 @@ SITE_ID = 1
 
 OSCAR_DEFAULT_CURRENCY = 'INR'
 
+OSCAR_SHOP_NAME = 'DJFashion'
+
+OSCAR_SHOP_TAGLINE = 'A Imitation jewellery'
+
 OSCAR_CURRENCY_FORMAT = {
     'USD': {
         'currency_digits': False,
